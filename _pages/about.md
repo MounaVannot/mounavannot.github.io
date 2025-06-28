@@ -49,9 +49,7 @@ Here is a brief overview of my work:
 - [**Nieuw boek vertelt verhaal van de Boerentoren**](https://wrap.apstudent.be/2024/11/29/nieuw-boek-vertelt-verhaal-van-de-boerentoren/): group work, co-editor<br>
 29/11/2024
 
-kiekeboe
 
-
-Stay tuned for more articles and updates! 
+Stay tuned for more articles and updates!<br>
 (work in progress)
 

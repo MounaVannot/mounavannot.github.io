@@ -194,3 +194,8 @@ pagination:
 {% endif %}
 
 </div>
+
+<h2> News</h2><br>
+<strong>Sep - dec 2025</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erasmus @ EFJ Bordeaux<br>
+<strong>03/10/2025</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opening video for forum UZA<br>
+
