@@ -26,19 +26,16 @@ latest_posts:
 
 <!-- sudo docker-compose up ||| http://localhost:8080/blog/ || Ctrl + C (om te stoppen)-->
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello! I'm a Journalism student at AP Hogeschool (Antwerp), graduating in Video technics. Next to my study, you can find me at Stampmedia as youth representative on the board of directors. When I'm not talking with people or working on the next project, I'm probably doing sports like cycling or weightlifting. 
 
 ## Portfolio
 
 Here is a brief overview of my work:
 
-#### Video
+#### VIDEO
 
-- [**Wie is de overheid**](https://wrap.apstudent.be/home-wie-is-de-overheid/): final group work, 2nd year Journalism, AP Hogeschool
+- [**Wie is de overheid**](https://wrap.apstudent.be/home-wie-is-de-overheid/): group final work, 2nd year Journalism, AP Hogeschool<br>
+27/05/2025
 
 - [**Bladeren door beelden, de wereld door de ogen van kleuters**](https://wrap.apstudent.be/2025/05/17/bladeren-door-beelden-de-wereld-ontdekken-door-de-ogen-van-kleuters/): individual final work, 2nd year Journalism, AP Hogeschool<br>
 17/05/2025
@@ -48,6 +45,14 @@ Here is a brief overview of my work:
 
 - [**Nieuw boek vertelt verhaal van de Boerentoren**](https://wrap.apstudent.be/2024/11/29/nieuw-boek-vertelt-verhaal-van-de-boerentoren/): group work, co-editor<br>
 29/11/2024
+
+<div style="text-align: right; direction: rtl;"> <h4>TEKST</h4>
+<ul>
+<li><a href="https://www.standaardboekhandel.be/p/en-toen-was-ik-alleen-9789464503449"><strong>Publicatie boek <em>En toen was ik alleen</em></strong></a><br>
+25/02/2022</li>
+</ul>
+</div> 
+
 
 
 Stay tuned for more articles and updates!<br>
