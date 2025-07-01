@@ -46,12 +46,20 @@ Here is a brief overview of my work:
 - [**Nieuw boek vertelt verhaal van de Boerentoren**](https://wrap.apstudent.be/2024/11/29/nieuw-boek-vertelt-verhaal-van-de-boerentoren/): group work, co-editor<br>
 29/11/2024
 
-<div style="text-align: right; direction: rtl;"> <h4>TEKST</h4>
+<div style="text-align: right; direction: rtl;"> <h4>TEXT</h4>
 <ul>
 <li><a href="https://www.standaardboekhandel.be/p/en-toen-was-ik-alleen-9789464503449"><strong>Publicatie boek <em>En toen was ik alleen</em></strong></a><br>
 25/02/2022</li>
-</ul>
+</ul><br>
+<ul>
+<li><a href="https://www.hetpaleis.be/nl/pQw6bIQ/agnes-en-mouna--2-"><strong>Briefuitwisseling hetpaleis - <em>Nieuwjaar</em></strong></a><br>
+Ook verschenen in <em>De Standaard</em>, 02/02/2022</li>
+</ul><br>
+<ul><li><a href="https://www.hetpaleis.be/nl/pQ665uL/agnes-en-mouna--1-"><strong>Briefuitwisseling hetpaleis - <em>Agnes en Mouna</em></strong></a><br>
+26/11/2021 </li></ul>
 </div> 
+
+<h4>AUDIO</h4>
 
 
 
