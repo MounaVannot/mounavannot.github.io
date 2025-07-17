@@ -40,7 +40,7 @@ Here is a brief overview of my work:
 - [**Bladeren door beelden, de wereld door de ogen van kleuters**](https://wrap.apstudent.be/2025/05/17/bladeren-door-beelden-de-wereld-ontdekken-door-de-ogen-van-kleuters/): individual final work, 2nd year Journalism, AP Hogeschool<br>
 17/05/2025
 
-- [**JOE pakt uit met actie 'Pakje van je hart' voor kinderen in kansarmoede**](https://wrap.apstudent.be/2024/11/29/nieuw-boek-vertelt-verhaal-van-de-boerentoren/)<br>
+- [**JOE pakt uit met actie 'Pakje van je hart' voor kinderen in kansarmoede**](https://wrap.apstudent.be/2024/11/29/nieuw-boek-vertelt-verhaal-van-de-boerentoren/): editor<br>
 13/12/2024
 
 - [**Nieuw boek vertelt verhaal van de Boerentoren**](https://wrap.apstudent.be/2024/11/29/nieuw-boek-vertelt-verhaal-van-de-boerentoren/): group work, co-editor<br>
@@ -55,11 +55,18 @@ Here is a brief overview of my work:
 <li><a href="https://www.hetpaleis.be/nl/pQw6bIQ/agnes-en-mouna--2-"><strong>Briefuitwisseling hetpaleis - <em>Nieuwjaar</em></strong></a><br>
 Ook verschenen in <em>De Standaard</em>, 02/02/2022</li>
 </ul><br>
-<ul><li><a href="https://www.hetpaleis.be/nl/pQ665uL/agnes-en-mouna--1-"><strong>Briefuitwisseling hetpaleis - <em>Agnes en Mouna</em></strong></a><br>
+<ul>
+<li><a href="https://www.hetpaleis.be/nl/pQ665uL/agnes-en-mouna--1-"><strong>Briefuitwisseling hetpaleis - <em>Agnes en Mouna</em></strong></a><br>
 26/11/2021 </li></ul>
 </div> 
 
 <h4>AUDIO</h4>
+<ul>
+<li><a href="https://wrap.apstudent.be/2024/11/08/vlaams-nederlands-huis-deburen-viert-20-jarig-bestaan/"><strong>Vlaams-Nederlands huis DeBuren bestaat 20 jaar</strong></a><br>
+08/11/2024
+<br>
+
+
 
 
 
