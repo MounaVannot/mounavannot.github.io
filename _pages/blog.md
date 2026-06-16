@@ -195,12 +195,19 @@ pagination:
 
 </div>
 
-<h2> News</h2><br>
-<strong>17 - 20 July</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reporter @ One World Radio, Tomorrowland
+<h2> Coming soon:</h2><br>
+<strong>01/07/2026</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Videographer for Een voor Twee 
 <br>
-<strong>Sep - dec 2025</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erasmus @ EFJ Bordeaux
+<strong>20/11/2026</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Videographer event @ Fora vzw
 <br>
-<strong>03/10/2025</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Opening video - forum UZA
+<strong>24/11/2026</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Video congres for UZA
 <br>
+<br>
+<br>
+<br>
+<h2>CV</h2>
+<div style="text-align:center;">
+  <img src="/assets/img/CV.jpg" width="600">
+</div>
 
 
