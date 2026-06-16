@@ -17,13 +17,46 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Online CV coming soon!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "post-my-erasmus-in-bordeaux",
+        
+          title: "My Erasmus in Bordeaux",
+        
+        description: "A reflection on my exchange semester in Bordeaux",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Bordeaux/";
+          
+        },
+      },{id: "post-did-you-ever-want-to-be-a-reporter-at-tomorrowland",
+        
+          title: "Did you ever want to be a reporter at Tomorrowland?",
+        
+        description: "Interviewing with techno beats on the background",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/OneWorldRadio/";
+          
+        },
+      },{id: "post-meeting-journalists-from-all-over-the-world-in-perugia",
+        
+          title: "Meeting journalists from all over the world in Perugia",
+        
+        description: "Amazed by intercultural exchanges",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Perugia/";
+          
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
