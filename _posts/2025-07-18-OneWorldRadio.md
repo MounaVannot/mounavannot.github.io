@@ -18,5 +18,17 @@ Thanks to our study, we got the chance to become a reporter for the radio statio
   <img src="/assets/img/Camping.jpg" width="400">
 </div>
 <div style="text-align:center;">
-  <img src="/assets/img/Camping.jpg" width="400">
+  <img src="/assets/img/Tram.jpg" width="400">
+</div>
+<br>
+<div style="text-align:center;">
+  <img src="/assets/img/Podium.jpg" width="400">
+</div>
+<br>
+<div style="text-align:center;">
+  <img src="/assets/img/Kamp.jpg" width="400">
+</div>
+<br>
+<div style="text-align:center;">
+  <img src="/assets/img/Nacht.jpg" width="400">
 </div>
